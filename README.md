@@ -1,2 +1,0 @@
-# wincat
-netcat for Windows.
